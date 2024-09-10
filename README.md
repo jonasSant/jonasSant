@@ -1,5 +1,10 @@
-Olá, eu sou Jonas Santos
-Atualmente estudo tecnologias voltadas ao desenvolvimento Web (foco em Back-end)
+
+Hi, I'm Jonas Santos
+I currently study technologies focused on Web development
+NodeJs, Javascript and ReactJs are the main technologies I've worked with
+NoSql (MongoDb) and SQL databases
+I'll commit my project changes n' deploy using this profile
+came on and enjoy
 
 <div style="display: inline_block">
   <a href="https://github.com/jonasSant">
