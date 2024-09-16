@@ -1,10 +1,12 @@
 
-Hi, I'm Jonas Santos
-I currently study technologies focused on Web development
-NodeJs, Javascript and ReactJs are the main technologies I've worked with
-NoSql (MongoDb) and SQL databases
-I'll commit my project changes n' deploy using this profile
-came on and enjoy
+Olá, sou Jonas Santos
+Sou um desenvolvedor Back-end 
+Javascript, Jest, NodeJs e Express  são as principais tecnologias com as quais trabalho
+Bancos de dados NoSql (MongoDb) e SQL (MySQL)
+Versionamento com Git
+Inglês B2 
+Curso Tecnólogo em Desenvolvimento Full Stack - Estácio
+Bacharelado em Ciência da Computação  - Universidade Presbiteriana Mackenzie
 
 <div style="display: inline_block">
   <a href="https://github.com/jonasSant">
