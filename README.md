@@ -1,17 +1,15 @@
 
-Olá, sou Jonas Santos
-Sou um desenvolvedor Back-end 
-Inglês B2 
-Curso Tecnólogo em Desenvolvimento Full Stack - Estácio
-Bacharelado em Ciência da Computação  - Universidade Presbiteriana Mackenzie
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=jonasSant&color=006bed)
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+Olá, sou Jonas Santos
+
+- 🤔 Explorando tecnologias voltadas ao Back-end e desenvolvendo soluções de software escaláveis.
+- 🎓 Tecnólogo em Desenvolvimento Full Stack - Estácio
+- 🎓 Bacharelado em Ciência da Computação  - Universidade Presbiteriana Mackenzie
+- 💼 Trabalhando como Estagiário na Pandora Tech, 6 meses.
+- 🌱 Aprendendo mais sobre testes unitários e CI/CD.
 
 ## Minhas Skills
 
@@ -48,7 +46,7 @@ Bacharelado em Ciência da Computação  - Universidade Presbiteriana Mackenzie
 <br/>
 
 <a href="https://github.com/jonasSant" title="Perfil do Jonas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasSant&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
