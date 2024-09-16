@@ -8,7 +8,6 @@ Olá, sou Jonas Santos
 - 🤔 Explorando tecnologias voltadas ao Back-end e desenvolvendo soluções de software escaláveis.
 - 🎓 Tecnólogo em Desenvolvimento Full Stack - Estácio
 - 🎓 Bacharelado em Ciência da Computação  - Universidade Presbiteriana Mackenzie
-- 💼 Trabalhando como Estagiário na Pandora Tech, 6 meses.
 - 🌱 Aprendendo mais sobre testes unitários e CI/CD.
 
 ## Minhas Skills
@@ -40,7 +39,6 @@ Olá, sou Jonas Santos
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 
 <br/>
