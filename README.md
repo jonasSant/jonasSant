@@ -6,7 +6,6 @@
 Olá, sou Jonas Santos
 
 - Explorando tecnologias voltadas ao Back-end e desenvolvendo soluções de software escaláveis.
-- 🎓 Tecnólogo em Desenvolvimento Full Stack - Estácio
 - 🎓 Bacharelado em Ciência da Computação  - Universidade Presbiteriana Mackenzie
 - 🌱 Aprendendo mais sobre testes unitários e CI/CD.
 
